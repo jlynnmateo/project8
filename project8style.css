@@ -4,11 +4,11 @@ body {
 
 h1 {
      text-align: center;
-     color:green;
+     color: green;
 }
 
 .days {
-       font-weight:bold;
+       font-weight: bold;
        background-color: yellow;
 }
 
@@ -22,7 +22,7 @@ table {
 }
 
 .number {
-        color:blue;
+        color: blue;
 }
 
 th {
